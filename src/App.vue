@@ -1,13 +1,13 @@
 <script>
-import TheMain from './components/TheMain.vue';
-import ThePromotion from './components/ThePromotion.vue';
-import TheWatchNetflix from './components/TheWatchNetflix.vue';
-import ThePromotionWindow from './components/ThePromotionWindow.vue';
-import TheWatchDevices from './components/TheWatchDevices.vue';
-import TheProfileForKids from './components/TheProfileForKids.vue';
-import TheDownLoadSeries from './components/TheDownLoadSeries.vue';
-import TheQuestions from './components/TheQuestions.vue';
-import TheFooter from './components/TheFooter.vue';
+import TheMain from '../src/components/TheMain.vue';
+import ThePromotion from '../src/components/ThePromotion.vue';
+import TheWatchNetflix from '../src/components/TheWatchNetflix.vue';
+import ThePromotionWindow from '../src/components/ThePromotionWindow.vue';
+import TheWatchDevices from '../src/components/TheWatchDevices.vue';
+import TheProfileForKids from '../src/components/TheProfileForKids.vue';
+import TheDownLoadSeries from '../src/components/TheDownLoadSeries.vue';
+import TheQuestions from '../src/components/TheQuestions.vue';
+import TheFooter from '../src/components/TheFooter.vue';
 
 export default {
   name: "App",
