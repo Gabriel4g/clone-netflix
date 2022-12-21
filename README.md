@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+<h1 align="center">Clone Home Page Netflix</h1>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<h3 align="center"> <a href="https://gabriel4g.github.io/clone-netflix">🏠 Acess The Project 🏠<a/> </h2>
 
-## Recommended IDE Setup
+![Captura de tela de 2022-12-19 00-03-08](https://user-images.githubusercontent.com/92071360/208351673-b8b52b48-ad7a-43a7-8216-26689eb65886.png)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+<h2>Developed by <a href="https://instagram.com/gabrielbarrozs">Gabriel 🚀</a> </h2>
